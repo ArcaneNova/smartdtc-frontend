@@ -377,3 +377,5 @@ Run `npm install` — Leaflet is a required dependency listed in `package.json`.
 |--------------|--------------------------|--------------|
 | Backend API  | `backend/README.md`      | 5000         |
 | AI Service   | `ai-service/README.md`   | 8000         |
+#   N e x t . j s   1 5 . 3 . 3   d e p l o y e d  
+ 
